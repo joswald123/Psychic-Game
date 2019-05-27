@@ -1,0 +1,35 @@
+
+body{
+    background: url(../images/background.jpg);
+    padding: 50px;
+    
+}
+
+h1 {
+     text-align: center;
+    padding-bottom: 30px;
+    color: #333;
+}
+.p {
+    font-size: 20px;
+}
+
+#directions-text, #wins-text, #losses-text, #userchoice-text, #guessLeft-text {
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+#computerchoice-text {
+    
+    color: #fff; opacity: 0.1;
+}    
+   
+
+
+
+.container {
+    float: left;
+    background-color: rgb(199, 221, 245); opacity: 0.8;
+    padding: 10px 10px 10px 10px;
+}
